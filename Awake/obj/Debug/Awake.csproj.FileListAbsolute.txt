@@ -1,0 +1,11 @@
+D:\Visual Studio\repos\Awake\Awake\bin\Debug\Awake.exe.config
+D:\Visual Studio\repos\Awake\Awake\bin\Debug\Awake.exe
+D:\Visual Studio\repos\Awake\Awake\bin\Debug\Awake.pdb
+D:\Visual Studio\repos\Awake\Awake\obj\Debug\Awake.csproj.AssemblyReference.cache
+D:\Visual Studio\repos\Awake\Awake\obj\Debug\Awake.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\repos\Awake\Awake\obj\Debug\Awake.Form1.resources
+D:\Visual Studio\repos\Awake\Awake\obj\Debug\Awake.Properties.Resources.resources
+D:\Visual Studio\repos\Awake\Awake\obj\Debug\Awake.csproj.GenerateResource.cache
+D:\Visual Studio\repos\Awake\Awake\obj\Debug\Awake.csproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\Awake\Awake\obj\Debug\Awake.exe
+D:\Visual Studio\repos\Awake\Awake\obj\Debug\Awake.pdb
